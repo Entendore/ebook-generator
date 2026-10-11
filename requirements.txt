@@ -1,0 +1,6 @@
+# Ebook Generator — AI-Powered Book Studio
+# Core
+PySide6>=6.6.0
+llama-cpp-python>=0.2.0
+ebooklib>=0.18
+reportlab>=4.0.0
